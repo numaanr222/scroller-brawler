@@ -1,6 +1,6 @@
 # scroller-brawler
 A native Windows productivity tool that summons an instant radial conversion &amp; editing pie menu when dragging files with Shift held.
-# Scrawler Brawler 
+# Scroller Brawler 
 
 > Brawl through file conversions, crops, and backdrop stylings on Windows with a single drag-and-drop gesture.
 
@@ -11,9 +11,9 @@ A native Windows productivity tool that summons an instant radial conversion &am
 
 ---
 
-What is Scrawler Brawler?
+What is Scroller Brawler?
 
-Scrawler Brawler cuts out the tedious friction of converting and polishing desktop files. Instead of opening browser converters, dealing with ad-riddled upload sites, or fighting bloated context menus, Scrawler Brawler intercepts native drag gestures directly on your Desktop or inside File Explorer:
+Scroller Brawler cuts out the tedious friction of converting and polishing desktop files. Instead of opening browser converters, dealing with ad-riddled upload sites, or fighting bloated context menus, Scrawler Brawler intercepts native drag gestures directly on your Desktop or inside File Explorer:
 
 1. **Click and drag** any PDF or image file.
 2. **Hold `Shift`** while moving the cursor.
@@ -54,7 +54,7 @@ Shortcut & Control Map
 
 Quick Start (Pre-built Executable)
 
-1. Download `ScrawlerBrawler.exe` from the [Releases](https://github.com/your-username/ScrawlerBrawler/releases) tab.
+1. Download `ScrollerBrawler.exe` from the [Releases](https://github.com/your-username/ScrollerBrawler/releases) tab.
 2. Double-click to launch. The app icon will appear in your Windows System Tray (bottom-right near the clock).
 3. Drag any `.png`, `.jpg`, or `.pdf` on your desktop, hold **`Shift`**, and drop onto a slice!
 
@@ -70,7 +70,7 @@ Installation
 
 ```powershell
 # Clone the repository
-git clone [https://github.com/your-username/ScrawlerBrawler.git](https://github.com/your-username/ScrawlerBrawler.git)
+git clone [https://github.com/your-username/ScrollerBrawler.git](https://github.com/your-username/ScrollerBrawler.git)
 cd ScrawlerBrawler
 
 # Create and activate virtual environment
